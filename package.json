@@ -1,0 +1,22 @@
+{
+  "name": "freecodecamp-api-project-timestamp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rochamarcelo/freecodecamp-api-project-timestamp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rochamarcelo/freecodecamp-api-project-timestamp/issues"
+  },
+  "homepage": "https://github.com/rochamarcelo/freecodecamp-api-project-timestamp#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
